@@ -1,3 +1,3 @@
 # Data-Science-tasks
 
-Tasks and interesting implementations on different interesting and famous data related methods and exerices.
+Tasks and interesting implementations on different popular data related methods and exerices.
